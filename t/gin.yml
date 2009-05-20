@@ -1,0 +1,209 @@
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACBC39C-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACBDADA-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '4'
+id: CACBE340-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACBEB4C-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACBF34E-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACBFB5A-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACC035C-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACC0B54-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACC134C-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACC1B44-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACC2C1A-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACC442A-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACC4C22-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACC541A-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - name:ekeberg
+  - TYPE:Course
+class: t::Course
+data:
+  holes:
+  - !!perl/hash:KiokuDB::Reference
+    id: CACBC39C-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACBD292-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACBDADA-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACBE340-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACBEB4C-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACBF34E-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACBFB5A-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACC035C-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACC0B54-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACC134C-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACC1B44-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACC2396-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACC2C1A-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACC3412-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACC3C28-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACC442A-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACC4C22-457F-11DE-A987-88B5FF47D780
+  - !!perl/hash:KiokuDB::Reference
+    id: CACC541A-457F-11DE-A987-88B5FF47D780
+  name: ekeberg
+id: CACB5B46-457F-11DE-A987-88B5FF47D780
+root: 1
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACBD292-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACC2396-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '4'
+id: CACC3412-457F-11DE-A987-88B5FF47D780
+root: 0
+--- !!perl/hash:KiokuDB::Entry
+backend_data:
+  keys:
+  - '0'
+class: t::Hole
+data:
+  par: '3'
+id: CACC3C28-457F-11DE-A987-88B5FF47D780
+root: 0
