@@ -23,11 +23,10 @@ $loader->run;
 
 {
     my $scope = $b->new_scope;
-    my $q = Search::GIN::Query::Manual->new(
-        values => { name => 'ekeberg', TYPE => 'Course'}
-    );
     
-    my $stream = $b->search($q);
+    my $stream = $b->search(Search::GIN::Query::Manual->new(
+        values => { name => 'ekeberg', TYPE => 'Course'}
+    ));
     my @all = $stream->all;
 
     ok($all[0]);

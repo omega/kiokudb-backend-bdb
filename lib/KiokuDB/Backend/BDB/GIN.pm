@@ -59,7 +59,7 @@ sub _open_secondary {
 before insert => sub {
     my ( $self, @entries ) = @_;
 
-    if ( $self->extract ) {
+    if ( $self->extract) {
         foreach my $entry ( @entries ) {
             if ( $entry->deleted || !$entry->has_object || ( !$entry->root && $self->root_only ) ) {
                 $entry->clear_backend_data;
@@ -71,6 +71,13 @@ before insert => sub {
                     $d->{keys} = \@keys;
                     $keys{$entry->id} = \@keys; # temp
                 }
+            }
+        }
+    } else {
+        foreach my $entry ( @entries ) {
+            if ($entry->has_backend_data) {
+                # We stash this in %keys
+                $keys{$entry->id} = $entry->backend_data->{keys};
             }
         }
     }
